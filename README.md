@@ -12,3 +12,6 @@ The interval class behaves like a dictionary keyed by ranges of
 floating-point numbers. Each value of the dictionary applies for any key
 value within the numeric range. Later entries into the dictionary can
 partially or completely replace earlier values.
+
+Note that this package is deprecated in favor of the `portion` module.
+Eventually this package may be removed entirely.
