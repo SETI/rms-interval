@@ -1,6 +1,6 @@
 | PyPI Release | Test Status | Code Coverage |
 | ------------ | ----------- | ------------- |
-| [![PyPI version](https://badge.fury.io/py/rms-interval.svg)](https://badge.fury.io/py/rms-interval) | [![Build status](https://img.shields.io/github/actions/workflow/status/SETI/rms-interval/run-tests.yml?branch=master)](https://github.com/SETI/rms-interval/actions) | [![Code coverage](https://img.shields.io/codecov/c/github/SETI/rms-interval/main?logo=codecov)](https://codecov.io/gh/SETI/rms-interval) |
+| [![PyPI version](https://badge.fury.io/py/rms-interval.svg)](https://badge.fury.io/py/rms-interval) | [![Build status](https://img.shields.io/github/actions/workflow/status/SETI/rms-interval/run-tests.yml?branch=main)](https://github.com/SETI/rms-interval/actions) | [![Code coverage](https://img.shields.io/codecov/c/github/SETI/rms-interval/main?logo=codecov)](https://codecov.io/gh/SETI/rms-interval) |
 
 # rms-interval
 
