@@ -6,6 +6,12 @@
 
 import numpy as np
 
+try:
+    from ._version import __version__
+except ImportError as err:
+    __version__ = 'Version unspecified'
+
+
 class Interval(object):
     """The interval class behaves like a dictionary keyed by ranges of
     floating-point numbers. Each value of the dictionary applies for any key
