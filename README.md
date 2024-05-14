@@ -25,7 +25,7 @@
 
 PDS Ring-Moon Systems Node, SETI Institute
 
-Supported versions: Python >= 3.7
+Supported versions: Python >= 3.8
 
 The interval class behaves like a dictionary keyed by ranges of
 floating-point numbers. Each value of the dictionary applies for any key
